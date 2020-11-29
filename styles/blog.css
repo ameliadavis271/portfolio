@@ -1,0 +1,74 @@
+/* web/tablet view */
+@media only screen and (min-width: 1000px) {
+
+.flex-container {
+    /* allows for a column effect */
+    display: flex;
+    color: black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* below are all blogs */
+/* each blog alternates with flex-start and flex-end to give a zig zag effect */
+    .flex-blog {
+        /* provides all the core styling for blog 1 */            
+        display: flex;
+        width: 75%;
+        border: 5px solid black;
+        background-color: #F9CFC8;
+        padding: 30px;
+        border-radius: 80px;
+        margin: 10px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .content-blog {
+        display: flex;
+    }
+
+    .content-blog img {
+        /* shrinks image to approriate size */        
+        width: 250px;
+        
+    }
+}
+
+/* mobile preview */
+@media only screen and (max-width: 1000px) {
+
+.flex-container {
+    /* allows for a fluid column effect while centering all content */
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items:center;
+}
+    
+    .flex-blog {
+        /* provides all the core styling for blog 1 */          
+        width: 85%;
+        border: 5px solid black;
+        background-color: #F9CFC8;
+        padding: 10px;
+        border-radius: 80px;
+        margin: 10px;
+    }
+
+    .content-blog {
+        /* reverses content so image appears above text */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .content-blog img {
+        /* shrinks image to an approriate size */        
+        width: 200px;       
+    }
+}

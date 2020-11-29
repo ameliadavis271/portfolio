@@ -1,0 +1,89 @@
+commit d9554ef72030b360a5bb97c16107eb7119a674de
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 03:30:06 2020 +0000
+
+    integrity added
+
+commit 22f44d92381669076e10a4fb06882b2ad9f051eb
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 03:25:26 2020 +0000
+
+    breaks added to about text
+
+commit 08f3916796d5aac8af39141362742d810b5592f5
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 03:22:48 2020 +0000
+
+    links to profiles added via icons
+
+commit a963950cfdfc8acd5aeb1df1469e20bff1553df9
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:29:58 2020 +0000
+
+    new font added across website
+
+commit 8984605903ddcba25cf0b5e72e5912135e067ab2
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:27:44 2020 +0000
+
+    background and topnav fixed when scroll
+
+commit e3da99cfe300e012aad5b0c2a381fe4819675917
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:22:29 2020 +0000
+
+    images added to blogs/projects
+
+commit eed772e104d6d6cd096cd34d1f31e12701f9aec1
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:19:39 2020 +0000
+
+    download CV added
+
+commit 16801840589b98a46b1d90446f4a0a62ecbe8e47
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:16:40 2020 +0000
+
+    basic contact form commpleted
+
+commit 1d70d0a3e2806e219e431826a3b4eb755f638923
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:15:26 2020 +0000
+
+    zig zag entries effect
+
+commit 8683b5b982fd1e8e29a3deb7198d84335050bc0a
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:11:43 2020 +0000
+
+    about webview content centered
+
+commit 0fc276b513f28ddf19fa9656f94d28a5f965329b
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:10:34 2020 +0000
+
+    home webview content centered
+
+commit 409b03de76181606d90590443ec3d9cdee437497
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:07:37 2020 +0000
+
+    avatars added across pages
+
+commit 34d41111a70c357ce86c65334994e2111a997975
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Sat Sep 5 02:05:18 2020 +0000
+
+    navbars created
+
+commit 236e5ee611b7535aaa8f9c38db6a56068eeff9d6
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Fri Sep 4 08:12:48 2020 +0000
+
+    htmls written up
+
+commit 2fd223201b92c1010cca263c8c2e14c0283258e0
+Author: Amelia Davis <ameliadavis271@gmail.com>
+Date:   Fri Sep 4 07:59:30 2020 +0000
+
+    initial commit of all files

@@ -1,0 +1,27 @@
+/* web/tablet view */
+@media only screen and (min-width: 1000px) {
+
+    .home-content {
+        /* collects all content on the page and centers it */
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        min-height: 100vh;
+        justify-content: center;
+        align-items: center;
+    }   
+}
+
+/* mobile view */
+@media only screen and (max-width: 1000px) {
+
+    .home-content {
+        /* collects all content on the page and centers it */              
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: center;        
+    }
+
+}
